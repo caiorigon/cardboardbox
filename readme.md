@@ -1,4 +1,4 @@
-necessario possuir docker, java 1.8
+necessario possuir docker, java 10
 
 docker pull postgres
 mkdir -p $HOME/docker/volumes/postgres
