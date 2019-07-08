@@ -1,6 +1,6 @@
 package com.logic.cardboardbox.controller;
 
-import com.logic.cardboardbox.TransportadoraService;
+import com.logic.cardboardbox.service.TransportadoraService;
 import com.logic.cardboardbox.model.dto.PesquisaViagem;
 import com.logic.cardboardbox.model.dto.Transportadora;
 import com.logic.cardboardbox.model.dto.TransportadoraSaida;

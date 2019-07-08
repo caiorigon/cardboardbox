@@ -1,7 +1,5 @@
 package com.logic.cardboardbox.service;
 
-import com.logic.cardboardbox.ConversaoTransportadoraService;
-import com.logic.cardboardbox.TransportadoraService;
 import com.logic.cardboardbox.controller.Transportadora2Controller;
 import com.logic.cardboardbox.controller.Transportadora3Controller;
 import com.logic.cardboardbox.controller.Transportadora4Controller;

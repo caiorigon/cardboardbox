@@ -1,4 +1,4 @@
-package com.logic.cardboardbox;
+package com.logic.cardboardbox.service;
 
 import com.logic.cardboardbox.controller.Transportadora2Controller;
 import com.logic.cardboardbox.controller.Transportadora3Controller;

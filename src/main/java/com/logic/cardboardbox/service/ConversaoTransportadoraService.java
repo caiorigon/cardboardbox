@@ -1,4 +1,4 @@
-package com.logic.cardboardbox;
+package com.logic.cardboardbox.service;
 
 import com.logic.cardboardbox.model.dto.Transportadora;
 import com.logic.cardboardbox.model.dto.TransportadoraSaida;

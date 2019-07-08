@@ -45,7 +45,7 @@ public class Transportadora4Controller {
             }
 
         } catch (Exception e) {
-            log.error("\n\nErro ao tentar recuperar informações da transportadora 2\n" + e.getMessage());
+            log.error("\n\nErro ao tentar recuperar informações da transportadora 4\n" + e.getMessage());
         }
         return transportadora4;
     }
